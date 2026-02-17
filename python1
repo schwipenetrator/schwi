@@ -6,3 +6,5 @@ git branch -M main
 git remote add origin https://github.com/schwipenetrator/schwi.git
 git push -u origin main
 print ("I LOVE SCHWI!!!")
+.vscode/settings.json
+StatusBarText: Activate (Global)
